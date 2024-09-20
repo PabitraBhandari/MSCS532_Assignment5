@@ -1,3 +1,20 @@
+# MSCS532_Assignment5
+# Name: Pabitra Bhandari
+# Course: Algorithms and Data Structures (MSCS_532_A01)
+# Instructor: Dr. Vanessa Cooper 
+
+'''
+This Python script compares the performance of two Quicksort implementations: one using a deterministic pivot (middle element) and the other using a random pivot.
+
+Quicksort Implementations:
+1. deterministic_quicksort: Uses the middle element as the pivot.
+2. random_pivot_quicksort: Uses a randomly chosen pivot.
+Performance Measurement:
+measure_time: Times the execution of a sorting function.
+print_table_for_input_type: Prints the timing results in a table format.
+Testing: The script tests both Quicksort versions on random, sorted, and reverse-sorted arrays of various sizes, comparing their execution times.
+'''
+
 import time
 import random
 
