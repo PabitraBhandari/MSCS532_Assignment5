@@ -66,7 +66,7 @@ After that, the performance analysis is displayed in three separate tables, comp
 
 ### Randomized Quicksort:
 - Random pivot selection significantly reduces the chances of encountering the worst-case scenario.
-- Even for sorted or reverse-sorted inputs, Randomized Quicksort maintains \( O(n \log n) \) performance on average.
+- Even for sorted or reverse-sorted inputs, Randomized Quicksort maintains \( O(n log n) \) performance on average.
 
 ### Empirical Results:
 - For random inputs, both implementations show similar performance.
