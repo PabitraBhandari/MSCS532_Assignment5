@@ -1,6 +1,6 @@
 # MSCS532_Assignment5
 # Name: Pabitra Bhandari
-# Course: Algorithms and Data Structures (MSCS_532_A01)
+# Course: Algorithms and Data Structures
 # Instructor: Dr. Vanessa Cooper 
 
 '''
