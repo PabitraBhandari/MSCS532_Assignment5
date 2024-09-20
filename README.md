@@ -16,7 +16,7 @@ The code performs both implementations, measures the time complexity empirically
 ### Files:
 - **[main.py](./main.py)**: Contains python script of this assignment.
 - **[analysis.md](./analysis.md)**: Contains detailed analysis of the implementation and comparison of Quicksort between two versions.
-- **[README.md](./README.md)**: Contains instructrions on ho to run the code and a summary of findings in this assignment.
+- **[README.md](./README.md)**: Contains instructrions on how to run the code and a summary of findings in this assignment.
 
 ### Instructions to run code:
 #### Running on windows 
