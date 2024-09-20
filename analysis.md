@@ -16,7 +16,7 @@ The average-case time complexity of Quicksort is also \( O(n log n) \). This occ
 The worst-case scenario arises when Quicksort consistently picks either the smallest or largest element as the pivot. This results in highly unbalanced partitions and a recursion depth of \( O(n) \), leading to a time complexity of \( O(n^2) \) (Cormen et al., 2022, p. 187).
 
 #### Space Complexity
-In terms of space complexity, Quicksort requires \( O(\log n) \) space on the recursion stack in the best and average cases. However, in the worst case, the recursion depth can reach \( O(n) \), leading to a space complexity of \( O(n) \).
+In terms of space complexity, Quicksort requires \( O(log n) \) space on the recursion stack in the best and average cases. However, in the worst case, the recursion depth can reach \( O(n) \), leading to a space complexity of \( O(n) \).
 
 ### 3. Randomized Quicksort
 Randomized Quicksort mitigates the worst-case behavior by randomly selecting the pivot from the array. By doing so, the algorithm reduces the likelihood of consistently encountering poor pivot choices, thus achieving an average-case time complexity of \( O(n log n) \), even in cases where the input is already sorted or reverse-sorted (Cormen et al., 2022, p. 191). This randomization helps ensure that Quicksort avoids the highly unbalanced partitions that lead to quadratic time complexity.
