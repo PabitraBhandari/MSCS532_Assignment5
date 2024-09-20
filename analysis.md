@@ -26,7 +26,7 @@ The empirical analysis showed that Randomized Quicksort outperforms deterministi
 
 Here you can find code implemented: [main.py](./main.py)
 
-### Empirical Results
+### Empirical Result Outputs:
 
 #### Quicksort example:
 - **Before Quicksort**: [5, 3, 8, 6, 2, 7, 4, 1]
