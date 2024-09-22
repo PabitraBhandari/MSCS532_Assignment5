@@ -1,7 +1,7 @@
 # MSCS532_Assignment5
 # Name: Pabitra Bhandari
 # Course: Algorithms and Data Structures
-# Instructor: Dr. Vanessa Cooper 
+# Instructor: Dr. Vanessa Ruth Cooper 
 
 '''
 This Python script compares the performance of two Quicksort implementations: one using a deterministic pivot (middle element) and the other using a random pivot.
