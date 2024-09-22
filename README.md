@@ -62,11 +62,11 @@ After that, the performance analysis is displayed in three separate tables, comp
 
 ### Deterministic Quicksort:
 - Performs efficiently on random inputs but shows significant performance degradation on already sorted or reverse-sorted inputs.
-- The worst-case time complexity is \( O(n^2) \) in cases of highly unbalanced partitions, especially for sorted inputs.
+- The worst-case time complexity is O(n^2) in cases of highly unbalanced partitions, especially for sorted inputs.
 
 ### Randomized Quicksort:
 - Random pivot selection significantly reduces the chances of encountering the worst-case scenario.
-- Even for sorted or reverse-sorted inputs, Randomized Quicksort maintains \( O(n log n) \) performance on average.
+- Even for sorted or reverse-sorted inputs, Randomized Quicksort maintains O(n log n) performance on average.
 
 ### Empirical Results:
 - For random inputs, both implementations show similar performance.
