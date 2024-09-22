@@ -2,7 +2,7 @@
 ## Assignment 5: Quicksort Implementation, Analysis, and Randomization
 #### Name : Pabitra Bhandari
 #### Course: Algorithms and Data Structures (MSCS532)
-#### Instructor: Dr. Vanessa Cooper
+#### Instructor: Dr. Vanessa Ruth Cooper
 #### Date : 09/22/2024
 
 ## Introduction
